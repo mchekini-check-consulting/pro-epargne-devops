@@ -1,0 +1,4 @@
+*.iml
+.idea
+vault-config/file/*
+vault-config/logs
